@@ -1,0 +1,11 @@
+/Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/target/debug/deps/time-87ae41f24906ab0c.rmeta: /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/target/debug/deps/libtime-87ae41f24906ab0c.rlib: /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/target/debug/deps/time-87ae41f24906ab0c.d: /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs /Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs
+
+/Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/lib.rs:
+/Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/display.rs:
+/Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/duration.rs:
+/Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/parse.rs:
+/Users/robert.radoslav/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.44/src/sys.rs:

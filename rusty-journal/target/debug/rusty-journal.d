@@ -1,0 +1,1 @@
+/Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/target/debug/rusty-journal: /Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/src/cli.rs /Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/src/main.rs /Users/robert.radoslav/Developer/cmd_line_tut_misft/rusty-journal/src/tasks.rs
